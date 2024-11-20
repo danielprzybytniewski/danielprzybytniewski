@@ -1,7 +1,5 @@
-## Hi, I'm Daniel Przybytniewski
-<a href="https://www.linkedin.com/in/danielprzybytniewski/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+## 👋 Hi, I'm Daniel Przybytniewski. Welcome to my GitHub profile!
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielprzybytniewski/)
 
 ## About Me
 
