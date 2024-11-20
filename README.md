@@ -1,18 +1,44 @@
 ## About Me
 
 ```javascript
-
 const aboutMe = {
   name: "Daniel",
   surname: "Przybytniewski",
   hobbies: "Sport",
   links: {
-    linkedin: "linkedin.com/in/danielprzybytniewski/"
-},
-  languages: ["Polish","English"],
+    linkedin: "https://linkedin.com/in/danielprzybytniewski/"
+  },
+  languages: ["Polish", "English"],
   contact: "danielprzybytniewski@gmail.com",
-technologies: [HTML5, CSS3, JavaScript (ES6), jQuery, ReactJS, NextJS, TypeScript, Zod, Node.js, Express, Redux, TanStackQuery, Jest, React Testing Library, Cypress, Prisma, Mongoose, React Router, React Hook Form, Tailwind, MUI, shadcn/ui, Bootstrap, Sass, Bulma, styled-components]. 
-softwareFevelopment:  [REST API, GraphQL]
-databases: [PostgreSQL, MongoDB] 
-other:  [Git, GitHub, Agile, Scrum, Jira, SEO, Postman, Figma, Slack, Microsoft Teams]
-}
+  technologies: [
+    "HTML5",
+    "CSS3",
+    "JavaScript (ES6)",
+    "jQuery",
+    "ReactJS",
+    "NextJS",
+    "TypeScript",
+    "Zod",
+    "Node.js",
+    "Express",
+    "Redux",
+    "TanStackQuery",
+    "Jest",
+    "React Testing Library",
+    "Cypress",
+    "Prisma",
+    "Mongoose",
+    "React Router",
+    "React Hook Form",
+    "Tailwind",
+    "MUI",
+    "shadcn/ui",
+    "Bootstrap",
+    "Sass",
+    "Bulma",
+    "styled-components"
+  ],
+  softwareDevelopment: ["REST API", "GraphQL"],
+  databases: ["PostgreSQL", "MongoDB"],
+  other: ["Git", "GitHub", "Agile", "Scrum", "Jira", "SEO", "Postman", "Figma", "Slack", "Microsoft Teams"]
+};
