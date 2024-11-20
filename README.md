@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Daniel Przybytniewski. Welcome to my GitHub profile!
+## ![image](https://github.com/user-attachments/assets/c841505f-b56e-4e3b-889d-27c1b07be358)
+ Hi, I'm Daniel Przybytniewski. Welcome to my GitHub profile!
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielprzybytniewski/)
 
 ## About Me
