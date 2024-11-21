@@ -7,7 +7,7 @@
 const aboutMe = {
   name: "Daniel",
   surname: "Przybytniewski",
-  hobbies: "Programming", "Sport",
+  hobbies: "Programming", "Sport"
   links: {
     linkedin: "https://linkedin.com/in/danielprzybytniewski/"
   },
